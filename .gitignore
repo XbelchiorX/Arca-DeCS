@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Dados e saidas ficam fora do repositorio.
+# dados/sessao guarda cookies e o token de login: NUNCA versionar.
+dados/
+saidas/
+logs/
+
+# Escrita dos artigos: individual, nao faz parte do codigo
+publicacoes/
+
+# Modelos e vetores
+*.npy
+*.pt
+*.pkl
+*.gguf
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+.env

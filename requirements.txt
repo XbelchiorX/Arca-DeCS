@@ -1,0 +1,23 @@
+# Instalar:  python -m pip install -r requirements.txt
+# Com GPU NVIDIA, instale antes o PyTorch com CUDA:
+#   python -m pip install torch --index-url https://download.pytorch.org/whl/cu121
+
+# Acesso ao DSpace e login
+requests>=2.31
+selenium>=4.15
+
+# Interface e planilhas
+rich>=13.7
+openpyxl>=3.1
+
+# Idiomas
+lingua-language-detector>=2.0
+
+# Modelos
+torch>=2.1
+transformers>=4.40
+numpy>=1.24
+scikit-learn>=1.4
+sentence-transformers>=3.0
+llama-cpp-python>=0.3
+huggingface-hub>=0.23

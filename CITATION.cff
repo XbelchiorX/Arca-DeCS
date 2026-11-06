@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Se usar este software, cite-o assim."
+title: "Arca-DeCS"
+abstract: "Correção e indexação automática de Descritores em Ciências da Saúde (DeCS) em repositório institucional DSpace, aprendendo com catalogadores."
+type: software
+authors:
+  - family-names: "Belchior"
+    given-names: "Raphael"
+repository-code: "https://github.com/XbelchiorX/Arca-DeCS"
+keywords:
+  - "DeCS"
+  - "subject indexing"
+  - "DSpace"
+  - "institutional repository"
+  - "Fiocruz"
