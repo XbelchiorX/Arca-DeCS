@@ -24,7 +24,7 @@ os que faltam. Toda mudança passa por confirmação, fica registrada e pode ser
 ## Como funciona
 
 ```mermaid
-flowchart LR
+flowchart TD
     A[Registro do Arca] --> B[Interpreta cada valor de DeCS]
     B --> C[Escolhe o galho na árvore do servidor]
     A --> D[Rede, kNN, léxico e semântica]
